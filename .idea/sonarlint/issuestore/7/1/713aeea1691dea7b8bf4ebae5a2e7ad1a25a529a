@@ -1,0 +1,10 @@
+
+{
+java:S1319"eThe type of "mills" should be an interface such as "List" rather than the implementation "ArrayList".(·¦á“
+
+java:S1319"fThe type of "helper" should be an interface such as "List" rather than the implementation "ArrayList".(Ô®¦¨ûÿÿÿÿ
+g
+java:S1104"QMake mills a static final constant or non-public and provide accessors if needed.(·¦á“
+m
+java:S1104"RMake helper a static final constant or non-public and provide accessors if needed.(Ô®¦¨ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÆ«úÿÿÿÿ

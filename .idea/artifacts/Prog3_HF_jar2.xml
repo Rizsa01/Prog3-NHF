@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Prog3_HF:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prog3_HF_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="Prog3_HF.jar">
+        <element id="module-output" name="Prog3_HF" />
+      </element>
+      <element id="library" level="project" name="btmatthews.selenium.junit4.runner" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,31 @@
+
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùè·”8ø³ˆ ¾1
+r	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‘Ô”ÿÿÿÿÿ8†ğùò¾1
+m	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ€ÛÊ8ÈÛä¢Ã1
+E
+java:S16040"(Make this anonymous inner class a lambda(ÁŞ•Ì8ø³ˆ ¾1
+J
+java:S16048"(Make this anonymous inner class a lambda(Ã²¤¹şÿÿÿÿ8ø³ˆ ¾1
+E
+java:S1604""(Make this anonymous inner class a lambda(‹¬Ø—8ø³ˆ ¾1
+E
+java:S1604N"(Make this anonymous inner class a lambda(õó“Õ8ËÛä¢Ã1
+E
+java:S1604_"(Make this anonymous inner class a lambda(¯ı©8ù³ˆ ¾1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÕŒüÿÿÿÿ8ù³ˆ ¾1
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8´ˆ ¾1
+R
+java:S18543"5Remove this useless assignment to local variable "A".(Ùè·”8„´ˆ ¾1
+C
+java:S14813"&Remove this unused "A" local variable.(Ùè·”8„´ˆ ¾1
+W
+java:S1854:"5Remove this useless assignment to local variable "A".(á‘Ô”ÿÿÿÿÿ8²ğùò¾1
+H
+java:S1481:"&Remove this unused "A" local variable.(á‘Ô”ÿÿÿÿÿ8³ğùò¾1
+R
+java:S1854Z"5Remove this useless assignment to local variable "A".(Ñ€ÛÊ8‰İä¢Ã1
+C
+java:S1481Z"&Remove this unused "A" local variable.(Ñ€ÛÊ8İä¢Ã1
+@
+java:S1128"$Remove this unused import 'IO.Save'.(‚ËòZ8’İä¢Ã1
